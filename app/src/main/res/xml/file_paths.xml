@@ -1,0 +1,15 @@
+
+
+<!--<paths xmlns:android="http://schemas.android.com/apk/res/android">-->
+<!--    <external-path-->
+<!--        name="my_files"-->
+<!--        path="Android/data/com.example.encript_decript/files/Pictures" />-->
+<!--</paths>-->
+
+<!--<paths xmlns:android="http://schemas.android.com/apk/res/android">-->
+<!--    <external-files-path name="external_files" path="." />-->
+<!--</paths>-->
+
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <cache-path name="decrypted_files" path="." />
+</paths>
